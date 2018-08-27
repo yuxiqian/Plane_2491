@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>aircraft/enemy_plane_a.png</file>
+        <file>aircraft/enemy_plane_b.png</file>
+        <file>aircraft/enemy_plane_c.png</file>
+        <file>aircraft/player_assist_plane.png</file>
+        <file>aircraft/player_plane_normal.png</file>
+        <file>effects/enemy_bullet_fire.png</file>
+        <file>effects/player_bullet_fire.png</file>
+        <file>explosion/explosion_frame_1.png</file>
+        <file>explosion/explosion_frame_2.png</file>
+        <file>explosion/explosion_frame_3.png</file>
+        <file>background/bg.png</file>
+        <file>icon/icon.png</file>
+        <file>font/avenir_next.ttc</file>
+        <file>media/plane_explosion.mp3</file>
+        <file>media/plane_hit.mp3</file>
+        <file>media/shoot_bullet.mp3</file>
+        <file>gift/gray_gift.png</file>
+        <file>gift/heal.png</file>
+        <file>media/gift_get.mp3</file>
+        <file>gui/pause_frame_simple.png</file>
+        <file>media/solstice.mp3</file>
+        <file>aircraft/player_plane_blackpow.png</file>
+        <file>style/qtquickcontrols2.conf</file>
+    </qresource>
+    <qresource prefix="/font"/>
+</RCC>
